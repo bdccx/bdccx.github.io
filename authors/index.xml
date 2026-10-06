@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Authors on blowfish</title>
+    <link>https://bdccx.github.io/authors/</link>
+    <description>Recent content in Authors on blowfish</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-cn</language>
+    <managingEditor>biqin12589@gmail.com (Nanaka Hashiro)</managingEditor>
+    <webMaster>biqin12589@gmail.com (Nanaka Hashiro)</webMaster>
+    <copyright>© 2026 Nanaka Hashiro</copyright>
+    <atom:link href="https://bdccx.github.io/authors/index.xml" rel="self" type="application/rss+xml" />
+    
+  </channel>
+</rss>
