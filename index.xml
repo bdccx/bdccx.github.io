@@ -2,21 +2,31 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>blowfish</title>
-    <link>https://bdccx.github.io/</link>
+    <link>http://localhost:1313/</link>
     <description>Recent content on blowfish</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-cn</language>
     <managingEditor>biqin12589@gmail.com (Nanaka Hashiro)</managingEditor>
     <webMaster>biqin12589@gmail.com (Nanaka Hashiro)</webMaster>
     <copyright>© 2026 Nanaka Hashiro</copyright>
-    <lastBuildDate>Tue, 06 Oct 2026 05:05:42 +0800</lastBuildDate><atom:link href="https://bdccx.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 10 Oct 2026 18:08:49 +0800</lastBuildDate><atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Concurrent_script</title>
+      <link>http://localhost:1313/posts/concurrent_script/</link>
+      <pubDate>Sat, 10 Oct 2026 18:08:49 +0800</pubDate>
+      <author>biqin12589@gmail.com (Nanaka Hashiro)</author>
+      <guid>http://localhost:1313/posts/concurrent_script/</guid>
+      <description></description>
+      
+    </item>
     
     <item>
       <title>如何用 Python &#43; socket 手写一个 TCP 端口扫描器</title>
-      <link>https://bdccx.github.io/posts/python-scanner/</link>
+      <link>http://localhost:1313/posts/python-scanner/</link>
       <pubDate>Tue, 06 Oct 2026 05:05:42 +0800</pubDate>
       <author>biqin12589@gmail.com (Nanaka Hashiro)</author>
-      <guid>https://bdccx.github.io/posts/python-scanner/</guid>
+      <guid>http://localhost:1313/posts/python-scanner/</guid>
       <description></description>
       
     </item>
